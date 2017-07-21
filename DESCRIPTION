@@ -1,0 +1,12 @@
+Package: singleCellRNASeqHumanGuoPGC
+Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
+Author: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
+Version: 0.99.0
+License: Artistic-2.0
+Title: single-cell RNA-seq data of Human primordial germ cells
+Description: This package stores data in Guo, F., Yan, L., Guo, H., Li, L., Hu, B., Zhao, Y., et al. (2015). The Transcriptome and DNA Methylome Landscapes of Human Primordial Germ Cells. Cell, 161(6), 1437–1452. http://doi.org/10.1016/j.cell.2015.05.015LazyData: yes
+Depends:
+    R (>= 2.10), Biobase (>= 2.26.0)
+biocViews: ExperimentData
+NeedsCompilation: no
+RoxygenNote: 5.0.1
